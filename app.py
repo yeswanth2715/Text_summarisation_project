@@ -8,7 +8,7 @@ from fastapi.responses import Response
 from textSummarizer.pipeline.prediction import PredictionPipeline
 
 
-text:str = "What is Text Summarization?"
+text:str = "What is Text1 Summarization?"
 
 app = FastAPI()
 
