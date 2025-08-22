@@ -42,6 +42,4 @@ This project implements an end-to-end text summarization pipeline that:
 - **Configuration**: YAML-based configuration management
 - **Logging**: Custom logging with timestamps and stage tracking
 
-## 📁 Project Structure
-
 
